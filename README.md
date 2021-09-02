@@ -1,4 +1,5 @@
 # Spring WebFlux
+* Support Reative Streaming API.
 * Spring Async supports Servlet 3.0 specifications, but Spring WebFlux supports Servlet 3.1+. It brings a number of differences:
    * Spring Async I/O model during its communication with the client is blocking. It may cause a performance problem with slow clients. On the other hand, Spring WebFlux provides a non-blocking I/O model.
 Reading the request body or request parts is blocking in Spring Async, whiles it is non-blocking in Spring WebFlux.
