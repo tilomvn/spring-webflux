@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.spring.webflux</groupId>
-	<artifactId>springwebflux</artifactId>
+	<artifactId>spring-webflux</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springwebflux</name>
-	<description>Spring WebFlux</description>
+	<name>spring-webflux</name>
+	<description>Demostration of Spring WebFlux</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
